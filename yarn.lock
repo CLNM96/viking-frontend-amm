@@ -1982,9 +1982,9 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@pancakeswap-libs/uikit@VikingDefi/viking-uikit":
+"@pancakeswap-libs/uikit@CLNM96/wasabi-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/VikingDefi/viking-uikit/tar.gz/541aabc9fb24467c6d434df1205ed1af0d4b8879"
+  resolved "https://codeload.github.com/CLNM96/wasabi-uikit/tar.gz/e099d9487e22c2daa81ae4a6847aa09658869bbc"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"

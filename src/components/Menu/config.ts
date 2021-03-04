@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.vikingswap.finance/'
+    href: 'https://wasabi-finance.netlify.app/'
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.vikingswap.finance/farms'
+    href: 'https://wasabi-finance.netlify.app/farms'
   },
   {
     label: 'Armory',
     icon: 'PoolIcon',
-    href: 'https://www.vikingswap.finance/nests'
+    href: 'https://wasabi-finance.netlify.app/nests'
   },
   {
     label: 'Info',
@@ -55,22 +55,22 @@ const config: MenuEntry[] = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/VikingDefi/",
+        href: "https://github.com/wasabifinance/",
       },
       {
         label: "Docs",
-        href: "https://vikingswap.gitbook.io/viking-swap/",
+        href: "https://wasabifinance.gitbook.io/wasabi-finance/",
       },
       {
         label: "Blog",
-        href: "https://viking-swap.medium.com/",
+        href: "https://wasabi-finance.medium.com/",
       },
     ],
   },
   {
     label: 'Audit by Hacken',
     icon: 'HelmetIcon',
-    href: 'https://www.vikingswap.finance/files/vikingHackenAudit.pdf',
+    href: 'https://wasabi-finance.netlify.app/files/vikingHackenAudit.pdf',
   },
 ]
 
